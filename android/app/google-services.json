@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499692830220",
+    "project_id": "academic-system-7ddc8",
+    "storage_bucket": "academic-system-7ddc8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499692830220:android:2eef397c057c7b768b7829",
+        "android_client_info": {
+          "package_name": "academic.system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhooyPqiKrIMN0IU6lXgeQJWBACJetJzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
